@@ -1,0 +1,29 @@
+
+.HeroSection {
+    height: 500px;
+    width: 1880px;
+    background-image: url("https://i.ibb.co/bbH6b91/emotz-hero-slider-01.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -140px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 0
+}
+
+.hero-title {
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    color: #fff;
+    font-size: 4rem;
+    margin-bottom: -30px;
+}
+
+.hero-content {
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    color: #fff;
+    font-size: 25px;
+}

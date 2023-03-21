@@ -1,0 +1,17 @@
+[33mcommit 7b98399ee3c0e58c1d53a80d311779896e62e45d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Niv <avidannn@gmail.com>
+Date:   Thu Feb 16 17:21:15 2023 +0200
+
+    Inital Commit - Replace correct user
+
+[33mcommit c6753a089b18baeb3bf5a2e80133063f174885c7[m[33m ([m[1;31mconnection/master[m[33m)[m
+Author: Niv <niv@gmail.com>
+Date:   Thu Feb 16 17:07:27 2023 +0200
+
+    Inital Commit - Infra of Auth & Redux & Routing & Layout
+
+[33mcommit 7ad6a11d4526ddc76dba681cc5cc6f41e855ad43[m
+Author: Niv Avidan <avidannn@gmail.com>
+Date:   Thu Feb 16 15:15:31 2023 +0200
+
+    Initialize project using Create React App

@@ -1,0 +1,37 @@
+.Header {
+    margin-top: 50px;
+    height: 100px;
+    width: 100%;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: absolute;
+    z-index: 1;
+}
+
+.Header > img {
+    width: auto;
+    height: auto;
+    margin-left: 50px;
+}
+
+.Header > h1 {
+    display: flex;
+    align-items: center;
+    margin-left: 200px;
+    font-size: 40px;
+}
+
+.Header > a {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 0px 15px;
+    color: #1f1f51;
+    font-size: 25px;
+    font-weight: 700;
+}
+.Header > a:hover {
+    color: lightblue;
+}

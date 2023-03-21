@@ -1,0 +1,14 @@
+.Login {
+    margin-left: 700px;
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 450px;
+}
+
+
+.Login .TextBox {
+    width: 100%;
+    margin: 5px 0;
+}
